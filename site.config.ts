@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'The Evolution of Web Aesthetics',
+  domain: 'pegelskicreativehub.vercel.app',
   author: 'Kieran Pegel',
 
   // open graph metadata (optional)
