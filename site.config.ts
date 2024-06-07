@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'The Evolution of Web Aesthetics',
-  domain: 'pegelskicreativehub.vercel.app',
+  name: 'Next.js Notion Starter Kit',
+  domain: 'mirage-cough-1f7.notion.site/The-Evolution-of-Web-Aesthetics-a5e39a491c8f4051a25685c91b4bec9e',
   author: 'Kieran Pegel',
 
   // open graph metadata (optional)
@@ -50,7 +50,7 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  navigationStyle: 'custom'
+  navigationStyle: 'custom,'
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
